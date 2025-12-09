@@ -1,10 +1,11 @@
 # Guacamole
 
 ## Ingredients
-* avacado
-* lime
+* avacado (x2)
+* lemon
 * salt
 
 ## Instructions
 * peel the avacao
-* squeeze lime juice
+* squeeze lemon juice
+*add the salt
